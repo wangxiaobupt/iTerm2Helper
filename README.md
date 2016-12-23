@@ -1,7 +1,9 @@
 # iTerm2Helper
 
-##功能
+## 功能
 选中一个文件夹，按自定义快捷键后会自动新建iTerm2窗口，并进入到选中的文件夹路径下
+
+Alfred Workflow：呼出alfred后，输入 `.` 后回车，会新建iTerm2窗口进入当前打开的文件夹的路径下
 
 ##使用方法
 1.打开Automator程序 - 服务
